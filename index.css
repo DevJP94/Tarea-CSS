@@ -1,0 +1,29 @@
+.size-fijo {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+.size-fijo2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(29, 167, 80);
+    display: inline-block;
+}
+
+.size-fijo3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(28, 25, 189);
+    display: inline-block;
+}
+
+.size-responsivo4 {
+    display: inline-block;
+    background-color: brown;
+    width: 23%;
+    height: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+}
