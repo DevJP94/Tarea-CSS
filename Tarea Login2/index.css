@@ -1,0 +1,42 @@
+    .contenedor {
+        width: 60%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin: 100px;
+        padding: 100px;
+        border: 10px;
+        border-style: solid;
+        border-radius: 2px;
+        background-color: chocolate;
+    }
+    
+    .input1 {
+        display: flex;
+        margin: 1.5em;
+        padding: 5px;
+    }
+    
+    .input2 {
+        display: flex;
+        margin: 1.5em;
+        padding: 5px;
+    }
+    
+    .input3 {
+        display: flex;
+        width: 10em;
+        margin-top: 1.5em;
+        margin-left: 3.5em;
+        padding: 3px;
+    }
+    
+    .ulista {
+        list-style-type: none;
+    }
+    
+    .titulo {
+        border-radius: 5px;
+        border-style: solid;
+        border-color: darkblue;
+    }

@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(waifu-naked.png);
+    background-size: cover;
+}
+
+img {
+    width: 100px;
+    margin-top: 30px;
+    border-radius: 150px;
+}
+
+.email {
+    margin-top: 10px;
+    padding: 5px;
+    width: 220px;
+    height: 35px;
+    border-style: double;
+    border-radius: 3px;
+}
+
+.password {
+    padding: 5px;
+    width: 220px;
+    height: 35px;
+    border-style: double;
+    border-radius: 3px;
+}
+
+.btn {
+    box-sizing: content-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    color: white;
+    box-sizing: content-box;
+    margin-top: 20px;
+    padding: 5px;
+    width: 220px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(43, 43, 116);
+}
+
+.btn:hover {
+    background: rgb(0, 110, 255);
+    color: rgb(248, 248, 248) !important;
+    cursor: pointer;
+}
+
+.container-flexible {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    height: 450px;
+    box-sizing: content-box;
+    padding: 10px 10px 5px;
+    border-radius: 10px;
+    margin-top: 100px;
+    background-color: white;
+}
+
+a {
+    margin: 50px 0 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgba(22, 17, 17, 0.473);
+    border-color: rgb(116, 114, 114);
+    text-decoration: none;
+    padding: 5px;
+    width: 150px;
+    height: 12px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+a:hover {
+    background: rgb(0, 110, 255);
+    color: rgb(248, 248, 248) !important;
+}

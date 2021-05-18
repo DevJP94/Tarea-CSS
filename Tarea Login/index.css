@@ -1,0 +1,19 @@
+.img_usr {
+    width: 10px;
+}
+
+.flex-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.container-box {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.input_email {}
